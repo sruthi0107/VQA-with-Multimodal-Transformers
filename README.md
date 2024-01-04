@@ -71,6 +71,4 @@ For inferencing, run `python src/inference.py --config=params.yaml --img_path=<p
 
 ***
 
-<p align="center">Created with ❤️ by <a href="https://www.linkedin.com/in/tezan-sahu/">Tezan Sahu</a></p>
-
 
