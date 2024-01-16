@@ -14,4 +14,6 @@ This repo contains the dataset & code for exploring multimodal fusion-type trans
     - DeiT (Data-Efficient Image Transformer): `'facebook/deit-base-distilled-patch16-224'`
     - BEiT (Bidirectional Encoder representation from Image Transformers): `'microsoft/beit-base-patch16-224-pt22k'`
 
+## Acknowledgements:
 
+This repository is built on top of the following repository: https://github.com/tezansahu/VQA-With-Multimodal-Transformers.git
